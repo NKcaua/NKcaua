@@ -35,7 +35,7 @@ Estou em busca de **oportunidades de estágio** na área de **Desenvolvimento de
 ## 🌐 **Conecte-se comigo**
 📫 **E-mail:** (bolanicaua@gmail.com) | (cauajesusbolani3@hotmail.com)
 💼 **LinkedIn:** [linkedin.com/in/cauabolani](https://linkedin.com/in/cauabolani)  
-💻 **GitHub:** [github.com/SEUUSUARIO](https://github.com/SEUUSUARIO)
+💻 **GitHub:** [github.com/NKcaua](https://github.com/NKcaua)
 
 ---
 
@@ -74,8 +74,8 @@ Estou em busca de **oportunidades de estágio** na área de **Desenvolvimento de
 ---
 
 ## 🌐 **Conecte-se comigo**
-📫 **E-mail:** seuemail@exemplo.com  
-💼 **LinkedIn:** [linkedin.com/in/cauabolani](https://linkedin.com/in/cauabolani)  
+📫 **E-mail:** (bolanicaua@gmail.com) | (cauajesusbolani3@hotmail.com)
+💼 **LinkedIn:** [linkedin.com/in/](https://linkedin.com/in/cauabolani)  
 💻 **GitHub:** [github.com/NKcaua](https://github.com/NKcaua)
 
 ---
