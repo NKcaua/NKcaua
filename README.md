@@ -75,7 +75,7 @@ Estou em busca de **oportunidades de estágio** na área de **Desenvolvimento de
 
 ## 🌐 **Conecte-se comigo**
 📫 **E-mail:** (bolanicaua@gmail.com) | (cauajesusbolani3@hotmail.com)
-💼 **LinkedIn:** [linkedin.com/in/](https://linkedin.com/in/cauabolani)  
+💼 **LinkedIn:** [linkedin.com/in/cauabolani](https://linkedin.com/in/cauabolani)   
 💻 **GitHub:** [github.com/NKcaua](https://github.com/NKcaua)
 
 ---
