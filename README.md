@@ -33,7 +33,7 @@ Estou em busca de **oportunidades de estágio** na área de **Desenvolvimento de
 ---
 
 ## 🌐 **Conecte-se comigo**
-📫 **E-mail:** seuemail@exemplo.com  
+📫 **E-mail:** (bolanicaua@gmail.com) | (cauajesusbolani3@hotmail.com)
 💼 **LinkedIn:** [linkedin.com/in/cauabolani](https://linkedin.com/in/cauabolani)  
 💻 **GitHub:** [github.com/SEUUSUARIO](https://github.com/SEUUSUARIO)
 
