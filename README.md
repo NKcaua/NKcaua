@@ -23,7 +23,6 @@ Atualmente, trabalho como **Vendedor na JC Informática**, onde realizo atendime
 🧰 **Outros Conhecimentos:**  
 - Manutenção de computadores e hardware  
 - Instalação e configuração de sistemas  
--  Suporte técnico ao usuário  
 
 ---
 
