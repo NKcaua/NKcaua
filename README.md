@@ -3,7 +3,7 @@
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** na [AEMS – Faculdades Integradas de Três Lagoas]  
 💻 Apaixonado por tecnologia e pelo desenvolvimento de software.  
-🚀 Atualmente, estou no **4º período**
+🚀 Atualmente estou no **4º período**
 
 ---
 
